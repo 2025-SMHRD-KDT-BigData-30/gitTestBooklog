@@ -10,6 +10,7 @@ function App() {
       <h1>git 네번째 커밋</h1>
       <h1>git 다섯번째 커밋</h1>
       <h1>git 여섯번째 커밋</h1>
+      <h1>git 일곱번째 커밋</h1>
     </div>
   );
 }
